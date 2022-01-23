@@ -2,7 +2,7 @@
 
 ### ENLACE DEL NUEVO DISEÑO
 ![Imgur](KKK.png)
-https://lucid.app/lucidchart/41121302-4e1e-41cc-875b-34a9af364f4d/edit?invitationId=inv_2c79a98d-a589-4a25-8a5f-45318ca3877a&page=0_0#
+
 
 Este es un ejemplo probado de la migración de datos de MySQL a MongoDB en local.
 
